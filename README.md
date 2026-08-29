@@ -1,7 +1,8 @@
 # cd32-gamelist-doc
 
-**Index of the Amiga CD32 / CDTV disc documentation** — 17 titles, one
-repository each, plus the shared platform checklist they all feed into.
+**Index of the Amiga CD32 / CDTV disc documentation** — 17 repositories
+covering **18 pressings** (*Prey* is documented on CD32 and on CDTV in one
+repository), plus the shared platform checklist they all feed into.
 
 Every one of these is a commercial CD32 or CDTV disc opened from the file system
 up: mastering fingerprints, the `.TM` block, boot chain, compression, planar
@@ -10,7 +11,7 @@ game assets — only measurements and the code to reproduce them.
 
 | | |
 |---|---|
-| **Shared platform findings** | [**cd32-platformnotes-doc**](https://github.com/vs-sr-dev/cd32-platformnotes-doc) — the canonical checklist all 17 discs feed into |
+| **Shared platform findings** | [**cd32-platformnotes-doc**](https://github.com/vs-sr-dev/cd32-platformnotes-doc) — the canonical checklist all 18 pressings feed into |
 | **Disc-by-disc comparison** | [section 10, *Baselines*](https://github.com/vs-sr-dev/cd32-platformnotes-doc/blob/master/cd32-platform-notes.md#10-baselines) — eighteen columns, validated by [`tools/addcolumn.py`](https://github.com/vs-sr-dev/cd32-platformnotes-doc/blob/master/tools/addcolumn.py). It lives there and is **not** copied here, so there is only ever one of it |
 
 ## The discs
